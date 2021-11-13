@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    background-color: limegreen;
+}
+
+h2 {
+    text-decoration: underline;
+    background-color: limegreen;
+}
+
+body {
+    border: 20px;
+    border-style:double;
+    margin: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    padding-inline-start: 8px;
+    padding-inline-end: 8px;
+}
+
+
+.informacoes-principais {
+    font-size: 15px;
+}
+
+.copyright {
+    text-align: center;
+}

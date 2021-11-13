@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    background-color: rgb(63, 3, 3);
+    color: white;
+    width: 100%;
+    font-size: 60px;
+}
+
+body{
+
+}
+
+nav {
+    background-color:rgb(116, 28, 28);
+    font-size: 30px;
+    color: #fff;
+    padding: 10px 10px 10px 10px;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid;
+    border-style: dashed;
+    width: 60% center;
+}
+
+iframe{
+    width: 40%;
+}
+img {
+    border-radius: 5px;
+    border: 2px solid;
+    border-style: dashed;
+}
+
+footer {
+    justify-content: space-around;
+    font-size: 16px;
+    text-align: center;
+}
